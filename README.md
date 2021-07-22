@@ -2,7 +2,7 @@
 
 Description:
 
-Simulation of a tic-tac-toe game that is build from web components in React. A simple interactive game for 2 players, X and O. It is played om a 3x3 grid. Each player's goal is to make 3 in a row.
+Simulation of a tic-tac-toe game that is build from web components in React. A simple interactive game for 2 players, X and O. It is played on a 3x3 grid. Each player's goal is to make 3 in a row.
 
 Run: Download files, run on the browser
 
